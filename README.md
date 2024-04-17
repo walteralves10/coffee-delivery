@@ -14,7 +14,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  ![image](https://github.com/walteralves10/coffee-delivery/assets/36523865/96d83dea-c078-4c66-a63d-07e029817d64)
+  <img alt="projeto Coffee Delivery" src="https://github.com/walteralves10/coffee-delivery/assets/36523865/96d83dea-c078-4c66-a63d-07e029817d64" width="100%">
 </p>
 
 ## 🚀 Tecnologias
